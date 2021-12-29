@@ -36,3 +36,5 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+External IP: a8f6e732d6bd542a894dffdd1dcabc66-1336752545.us-east-1.elb.amazonaws.com
