@@ -38,3 +38,7 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 External IP: a8f6e732d6bd542a894dffdd1dcabc66-1336752545.us-east-1.elb.amazonaws.com
+
+.env_file Contents:
+    JWT_SECRET='myjwtsecret'
+    LOG_LEVEL=DEBUG
